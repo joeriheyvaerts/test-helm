@@ -3,7 +3,7 @@ entries:
   hop-server:
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2022-07-25T10:16:49.5236057+02:00"
+    created: "2022-07-25T11:28:47.5560505+02:00"
     description: A Helm chart for Kubernetes
     digest: a5c83a565c577af1c8d4ceca50630c2a1e72f73201a074dec821fec2555db55c
     name: hop-server
@@ -11,4 +11,14 @@ entries:
     urls:
     - https://github.com/joeriheyvaerts/test-helm/hop-server-0.1.0.tgz
     version: 0.1.0
-generated: "2022-07-25T10:16:49.5227318+02:00"
+  - apiVersion: v2
+    appVersion: 1.2.0
+    created: "2022-07-25T11:28:47.5564507+02:00"
+    description: A Helm chart for Kubernetes
+    digest: a5c83a565c577af1c8d4ceca50630c2a1e72f73201a074dec821fec2555db55c
+    name: hop-server
+    type: application
+    urls:
+    - https://github.com/joeriheyvaerts/test-helm/hop-server-0.1.1.tgz
+    version: 0.1.0
+generated: "2022-07-25T11:28:47.5549897+02:00"
