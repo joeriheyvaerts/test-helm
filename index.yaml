@@ -1,0 +1,45 @@
+apiVersion: v1
+entries:
+  hop:
+  - apiVersion: v2
+    appVersion: 1.2.0
+    created: "2022-08-26T09:28:18.3363099+02:00"
+    description: A Helm chart for hop services
+    digest: a9ffacabe580347afa9b825774321dbf93b84dc6ae8f60a14786bb851cde5999
+    name: hop
+    type: application
+    urls:
+    - https://github.com/joeriheyvaerts/test-helm/tree/gh-pages/hop-1.tgz
+    version: "1"
+  - apiVersion: v2
+    appVersion: 1.2.0
+    created: "2022-08-26T09:28:18.3358249+02:00"
+    description: A Helm chart for hop services
+    digest: 4220b812ffaef55e4ccaea181dca40764d6f9d2266b264378ffc0c51ad0d256c
+    name: hop
+    type: application
+    urls:
+    - https://github.com/joeriheyvaerts/test-helm/tree/gh-pages/hop-0.1.0.tgz
+    version: 0.1.0
+  hop-server:
+  - apiVersion: v2
+    appVersion: 1.2.0
+    created: "2022-08-26T09:28:18.3372689+02:00"
+    description: Helm Chart hop-server
+    digest: c84172bab701c5f461627691a14e769cfa5ddd9c179477da0d43f6c20feacb53
+    name: hop-server
+    type: application
+    urls:
+    - https://github.com/joeriheyvaerts/test-helm/tree/gh-pages/hop-server-1.0.0.tgz
+    version: 1.0.0
+  - apiVersion: v2
+    appVersion: 1.2.0
+    created: "2022-08-26T09:28:18.3369586+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 6f51a24935e6da8c126a0429455c45e3c16bb7f6c024fd27cd6d856786b5b511
+    name: hop-server
+    type: application
+    urls:
+    - https://github.com/joeriheyvaerts/test-helm/tree/gh-pages/hop-server-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-08-26T09:28:18.3352392+02:00"
